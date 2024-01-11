@@ -18,4 +18,6 @@ git branch (list branch)
 
 git branch <branch_name> (create branch)
 
+git branch -d <branch_name> (delete branch)
+
 git checkout -b <branch_name> (create branch, checkout branch)
