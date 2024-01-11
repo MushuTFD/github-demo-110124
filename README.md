@@ -14,8 +14,8 @@ git diff (to see the changes made)
 
 git log (to see the past actions/commit)
 
-git branch
+git branch (list branch)
 
-git branch <branch_name>
+git branch <branch_name> (create branch)
 
-git checkout -b <branch_name>
+git checkout -b <branch_name> (create branch, checkout branch)
